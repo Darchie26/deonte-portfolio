@@ -1,0 +1,136 @@
+{
+  "main": {
+    "name": "Deonte Archie",
+    "occupation": "...",
+    "description": "I am a Software Developer",
+    "image": "profilepic.png",
+    "bio": "Hello, I am Deonte Archie I am very interested in mobile design, UI/UX and Machine Learning. I am located in Charlotte NC and am experienced in creating web properties for our local clients , student creating their portfolios, train new coders and working with small to mid-sized companies desiring to freshen up their websites. I am also versed in setting up SEO and marketing for their web applications. I am versed in React, Nodejs and Python. Lets speak I would love to assist you in your next web project.",
+    "contactmessage": "Get in touch with me!",
+    "email": "deontearchie@icloud.com",
+    "phone": "+1 9803101331",
+    "address": {
+      "city": "Charlotte",
+      "state": "North Carolina"
+    },
+    "website": "",
+    "resumedownload": "",
+    "social": [
+     
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/deonte-archie-29b93a185/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/Darchie26",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Florida Institute of Technology - FIT",
+        "degree": "Continue getting my Bachelor's Degree, Computer Science",
+        "graduated": "expect to graduate in july of 2024",
+        "description": ""
+      },
+      {
+        "school": "University of North Carolina at Charlotte - UNCC",
+        "degree": "Certificate:Full Stack Web Developer",
+        "graduated": "October 2020",
+        "description": ""
+      }
+      
+    ],
+    "work": [
+      {
+        "logo": "",
+        "company": "Hornets Sports & Entertainment",
+        "title": "Digital Web Developer",
+        "years": "january 2022 - Present",
+        "description": "Implementing new content to the Hornets website and also maintaining it."
+      },
+      {
+        "company": "Alevv8",
+        "title": "jr Web Consultant",
+        "years": "August 2020 - May 2021",
+        "description": "Create new websites for clients and also maintaning webisites for existing clients"
+      }
+
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "50%"
+      },
+      {
+        "name": "Python",
+        "level": "50%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "50%"
+      },
+      {
+        "name": "Web Development",
+        "level": "50%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Airbnb (React JS,Firebase)",
+        "category": "",
+        "image": "airbnb pic.jpeg",
+        "url": "https://airbnb-clone-e2d0b.web.app/"
+      },
+      {
+        "title": "QC-Taste (React JS,JavaScript,MySQL)",
+        "category": "",
+        "image": "QC-Taste.jpeg",
+        "url": "https://qctaste.herokuapp.com/"
+      },
+      {
+        "title": "Tesla (React JS,Redux)",
+        "category": "",
+        "image": "tesla.jpg",
+        "url": "https://tesla-clone-b8c06.web.app/#"
+      }
+    ],
+    "projects2": [
+      {
+        "title": "python auto bot buying (Python,Selenium)",
+        "category": "",
+        "image": "python-logo.jpg",
+        "url": "https://github.com/Darchie26/python-auto-bot-buying"
+      },
+      {
+        "title": "face detector (Python, CV2)",
+        "category": "",
+        "image": "python-logo.jpg",
+        "url": "https://github.com/Darchie26/Face-Detector2"
+      }
+      
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Sonny is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
+        "user": "Jorge Fouto"
+      },
+      {
+        "text": "Learning with Sonny has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
+        "user": "Adam Curtis"
+      }
+    ]
+  }
+}
